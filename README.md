@@ -2,7 +2,7 @@
 
 
 
-A secure backend banking application built using \*\*Spring Boot\*\*, \*\*Spring Security\*\*, \*\*JWT Authentication\*\*, \*\*Hibernate\*\*, and \*\*MySQL\*\* that provides user authentication, account management, balance inquiry, fund transfer, transaction history, and email notifications through RESTful APIs.
+A secure backend banking application built using  Spring Boot, Spring Security, JWT Authentication, Hibernate, and MySQL that provides user authentication, account management, balance inquiry, fund transfer, transaction history, and email notifications through RESTful APIs.
 
 
 
